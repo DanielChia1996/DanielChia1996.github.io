@@ -6,7 +6,7 @@
 
 (function($) {
 
-	document.body.style.zoom="70%"
+	document.body.style.zoom="90%"
 
 	var	$window = $(window),
 		$body = $('body'),
